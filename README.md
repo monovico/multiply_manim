@@ -1,1 +1,1 @@
-uv run --active manim -ql multiply_manim.py m
+uv run --active manim -ql multiply_manim_final.py m
